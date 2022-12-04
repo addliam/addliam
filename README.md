@@ -13,26 +13,26 @@
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Travelara.org</h3>
+        <td width="50%" valign="top">
+      <h3 align="center">Store Ecommerce filters</h3>
         <br />
-        <a target="_blank" href="http://travelara.herokuapp.com">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+            <img src="images/gif2.gif" width="100%"  alt="ecommerce filters app"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="#" target="_blank">
+  <a href="https://github.com/addliam/products-ecommerce" target="_blank">
     <img src="https://img.shields.io/badge/Github-%23202020.svg?&style=flat-square&logo=github&logoColor=white" alt="Github">
   </a>  
-  <a href="#" target="_blank">
+  <a href="https://fakestore-ecommerce-filters.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Website-%2339383B.svg?&style=flat-square&logo=wordpress&logoColor=white" alt="Wordpress">
   </a>
       </p>
-        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+        <p><strong>ReactJS, TailwindCSS & ReduxToolkit</strong> - Web app fetching <a href="https://fakestoreapi.com/docs" target="_blank">FakeStore API</a> and applying filters by price, category & stars</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Rigley 2: "Flappy Bug"</h3>
+      <h3 align="center">Landing page bank</h3>
         <br />
       <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
             <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
@@ -40,10 +40,10 @@
         <br />
         <p align="center">
           
-  <a href="#" target="_blank">
+  <a href="https://github.com/addliam/ModernTailwindsApp" target="_blank">
     <img src="https://img.shields.io/badge/Github-%23202020.svg?&style=flat-square&logo=github&logoColor=white" alt="Github">
   </a>  
-  <a href="#" target="_blank">
+  <a href="https://modern-tailwindcss.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Website-%2339383B.svg?&style=flat-square&logo=wordpress&logoColor=white" alt="Wordpress">
   </a>
       </p>
@@ -53,34 +53,34 @@
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">ShawnCharles.com</h3>
+      <h3 align="center">Landing page Medicos</h3>
       <br />
         <a target="_blank" href="https://shawncharles.com">
           <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
         </a>
       <br />
         <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://github.com/addliam/landing-page-medicos" target="_blank">
     <img src="https://img.shields.io/badge/Github-%23202020.svg?&style=flat-square&logo=github&logoColor=white" alt="Github">
   </a>  
-  <a href="#" target="_blank">
+  <a href="http://landing-page-medicos.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-%2339383B.svg?&style=flat-square&logo=wordpress&logoColor=white" alt="Wordpress">
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
+      <h3 align="center">E-learning</h3>
         <br />
         <a target="_blank" href="https://poke-matchcards.netlify.app/">
           <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://github.com/addliam/e-learning" target="_blank">
     <img src="https://img.shields.io/badge/Github-%23202020.svg?&style=flat-square&logo=github&logoColor=white" alt="Github">
   </a>  
-  <a href="#" target="_blank">
+  <a href="http://e-learning-peach.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-%2339383B.svg?&style=flat-square&logo=wordpress&logoColor=white" alt="Wordpress">
   </a>
       </p>
