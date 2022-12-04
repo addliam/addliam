@@ -8,4 +8,85 @@
   <p>Passionate frontend developer. ReactJS lover and currently learning MongoDB to achieve the MERN Stack</p>
 </div>
 
+<h1 align="center">Projects</h1>
+
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Travelara.org</h3>
+        <br />
+        <a target="_blank" href="http://travelara.herokuapp.com">
+            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Github-%23202020.svg?&style=flat-square&logo=github&logoColor=white" alt="Github">
+  </a>  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Website-%2339383B.svg?&style=flat-square&logo=wordpress&logoColor=white" alt="Wordpress">
+  </a>
+      </p>
+        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Rigley 2: "Flappy Bug"</h3>
+        <br />
+      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Github-%23202020.svg?&style=flat-square&logo=github&logoColor=white" alt="Github">
+  </a>  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Website-%2339383B.svg?&style=flat-square&logo=wordpress&logoColor=white" alt="Wordpress">
+  </a>
+      </p>
+        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">ShawnCharles.com</h3>
+      <br />
+        <a target="_blank" href="https://shawncharles.com">
+          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Github-%23202020.svg?&style=flat-square&logo=github&logoColor=white" alt="Github">
+  </a>  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Website-%2339383B.svg?&style=flat-square&logo=wordpress&logoColor=white" alt="Wordpress">
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Matching Cards</h3>
+        <br />
+        <a target="_blank" href="https://poke-matchcards.netlify.app/">
+          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+        </a>
+        <br />
+        <p align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Github-%23202020.svg?&style=flat-square&logo=github&logoColor=white" alt="Github">
+  </a>  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Website-%2339383B.svg?&style=flat-square&logo=wordpress&logoColor=white" alt="Wordpress">
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - With over 100 different cards, test your memory in these three popular trading card themes, Pokemon, Yugioh, & Magic: The Gathering!</p>
+    </td>
+  </tr>
+</table>
+
 
