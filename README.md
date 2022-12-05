@@ -58,7 +58,7 @@
 <tr>
   
 <td width="50%" valign="top">
-<h3 align="center"></h3>
+<h3 align="center">E-learning</h3>
 <br />
 <div>
 <img src="images/mruv-elearning.gif" width="100%"  alt="mruv app"/>
