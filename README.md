@@ -37,7 +37,7 @@
 <h3 align="center">Modern web app</h3>
 <br />
 <div>
-<img src="images/products-ecommerce.gif" width="100%"  alt="ecommerce failters app"/>
+<img src="images/modern-bank-app.gif" width="100%"  alt="ecommerce failters app"/>
 </div>
 <br />
 <p align="center">
@@ -78,22 +78,22 @@
 </td>
   
 <td width="50%" valign="top">
-<h3 align="center">Store Ecommerce filters</h3>
+<h3 align="center">Landing page Medicos</h3>
 <br />
 <div>
-<img src="images/products-ecommerce.gif" width="100%"  alt="ecommerce failters app"/>
+<img src="images/landing-page-medicos.gif" width="100%"  alt="landing page medicos app"/>
 </div>
 <br />
 <p align="center">
-<a href="https://github.com/addliam/products-ecommerce" target="_blank">
+<a href="https://github.com/addliam/landing-page-medicos" target="_blank">
 <img src="https://img.shields.io/badge/Github-%23202020.svg?&style=flat-square&logo=github&logoColor=white" alt="Github">
 </a>  
-<a href="https://fakestore-ecommerce-filters.netlify.app" target="_blank">
+<a href="http://landing-page-medicos.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Website-%2339383B.svg?&style=flat-square&logo=wordpress&logoColor=white" alt="Wordpress">
 </a>
 </p>
 <p>
-  <strong>ReactJS, TailwindCSS & ReduxToolkit</strong> - Web app fetching <a href="https://fakestoreapi.com/docs" target="_blank">FakeStore API</a> and applying filters by price, category & stars
+  <strong>ReactJS, TailwindCSS & Vite</strong> - Responsive landing page with animations on scroll, call to action and testimonials section
 </p>
 </td>
   
