@@ -73,7 +73,7 @@
 </a>
 </p>
 <p>
-  <strong>ReactJS, TailwindCSS & NextJS</strong> - Web app for learning Linear Motion with Variable Acceleration based on SoloLearn interface
+  <strong>ReactJS, TailwindCSS & NextJS</strong> - Web app for learning Linear Motion with Variable Acceleration based on SoloLearn
 </p>
 </td>
   
