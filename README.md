@@ -16,8 +16,8 @@
         <td width="50%" valign="top">
       <h3 align="center">Store Ecommerce filters</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="images/gif2.gif" width="100%"  alt="ecommerce filters app"/>
+      <a target="_blank" href="https://any/">
+            <img src="images/products-ecommerce.gif" width="100%"  alt="ecommerce filters app"/>
         </a>
         <br />
         <p align="center">
