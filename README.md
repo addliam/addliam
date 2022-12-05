@@ -81,7 +81,7 @@
 <h3 align="center">Landing page Medicos</h3>
 <br />
 <div>
-<img src="images/products-ecommerce.gif" width="100%"  alt="landing page medicos app"/>
+<img src="images/landing-page-medicos.gif" width="100%"  alt="landing page medicos app"/>
 </div>
 <br />
 <p align="center">
