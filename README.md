@@ -133,6 +133,7 @@
     
     ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white) 
     ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
     
     
 - 🎛️ Application and Tools:
