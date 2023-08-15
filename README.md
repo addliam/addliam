@@ -6,7 +6,7 @@
 <a href="https://www.upwork.com/freelancers/~0176ed3fc0626f870a" target="_blank"><img src="https://img.shields.io/badge/Upwork-%6fda44.svg?&style=flat-square&logo=upwork&logoColor=white" alt="Upwork"></a>
 <a href="https://ecommerce-electronics-six.vercel.app/assets/others/Curriculum-en.pdf" target="_blank"><img src="https://img.shields.io/badge/pdf-resume-lightgrey" alt="Resume"></a>
   ![](https://komarev.com/ghpvc/?username=addliam)
-  <p>Passionate frontend developer. ReactJS lover and currently learning MongoDB to achieve the MERN Stack</p>
+  <p>Passionate fullstack developer. ReactJS, Python, Typescript lover and currently learning NestJS</p>
 </div>
 
 <h1 align="center">Projects</h1>
